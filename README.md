@@ -9,7 +9,7 @@ Designed as a **portfolio project**, it highlights **industry best practices** i
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/High Level Architecture.png)
+![Data Architecture](https://github.com/AhmedGonim/SQL-Data-Warehouse-Project/blob/main/docs/High%20Level%20Architecture.png)
 
 ### 🔹 Bronze Layer
 Stores raw data *as-is* from the source systems.  
