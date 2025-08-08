@@ -110,8 +110,13 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**.  
-I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+👋 Hi, I’m Ahmed Ghonim from Egypt — a Recent MIS Graduate | Junior Data Analyst | Python, SQL & Power BI Specialist
+
+I recently graduated with a degree in Management Information Systems (MIS) from Obour Institute. I have a strong foundation in data analysis, business intelligence, and ERP systems.
+
+I’m passionate about using Python, SQL, and Power BI to turn raw data into meaningful insights and clear visual reports that help support smarter business decisions.
+
+I'm constantly learning and exploring new tools and technologies in the data world — and I’m excited to grow in this field and contribute to impactful projects.
 
 ---
 
