@@ -110,7 +110,7 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-👋 Hi, I’m Ahmed Ghonim from Egypt — a Recent MIS Graduate | Junior Data Analyst | Python, SQL & Power BI Specialist
+👋 Hi, I’m Ahmed Ghonim from Egypt — a Recent MIS Graduate | Junior Data Analyst | Python, SQL &  Excel & Power BI Specialist
 
 I recently graduated with a degree in Management Information Systems (MIS) from Obour Institute. I have a strong foundation in data analysis, business intelligence, and ERP systems.
 
