@@ -47,6 +47,61 @@ This repository is an excellent resource for:
 - 📈 Data Analysts  
 
 ---
+# 🚀 Project Requirements
 
-> Made with 💡 for showcasing end-to-end data solutions.
+## 📦 Building the Data Warehouse (Data Engineering)
+
+### 🎯 Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+### ✅ Specifications
+- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
+- **Scope**: Focus on the latest dataset only; historization of data is not required.
+- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+---
+
+## 📊 BI: Analytics & Reporting (Data Analysis)
+
+### 🎯 Objective
+Develop SQL-based analytics to deliver detailed insights into:
+
+- Customer Behavior
+- Product Performance
+- Sales Trends
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+> For more details, refer to `docs/requirements.md`.
+
+---
+
+## 📂 Repository Structure
+
+data-warehouse-project/
+│
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+│
+├── docs/                               # Project documentation and architecture details
+│   ├── etl.drawio                      # ETL techniques & methods (draw.io)
+│   ├── data_architecture.drawio        # Project architecture (draw.io)
+│   ├── data_catalog.md                 # Dataset catalog (field descriptions & metadata)
+│   ├── data_flow.drawio                # Data flow diagram (draw.io)
+│   ├── data_models.drawio              # Data models (star schema) (draw.io)
+│   ├── naming-conventions.md           # Naming guidelines
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Extract & Load raw data
+│   ├── silver/                         # Clean & transform data
+│   ├── gold/                           # Build analytical models
+│
+├── tests/                              # Test scripts and data quality checks
+│
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License info
+├── .gitignore                          # Git ignore rules
+└── requirements.txt                    # Project dependencies
+
 
