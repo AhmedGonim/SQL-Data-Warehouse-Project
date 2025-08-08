@@ -9,7 +9,8 @@ Designed as a **portfolio project**, it highlights **industry best practices** i
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/High Level Architecture.png)
+
 ### 🔹 Bronze Layer
 Stores raw data *as-is* from the source systems.  
 Data is ingested from **CSV Files into a SQL Server Database**.
@@ -116,5 +117,5 @@ I’m an IT professional and passionate YouTuber on a mission to share knowledge
 
 ### 📬 Let's stay in touch!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedghoonim)
-[![facebook](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.facebook.com/share/19JWnRjSrQ/)
+[![facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.facebook.com/share/19JWnRjSrQ/)
 
